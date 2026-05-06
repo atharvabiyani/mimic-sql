@@ -56,7 +56,6 @@ The script prints each query result in order. Large result sets are truncated in
 Add these files to GitHub:
 
 - `README.md`
-- `.gitignore`
 - `requirements.txt`
 - `run_queries.py`
 - `codes.sql`
